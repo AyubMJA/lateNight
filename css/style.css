@@ -1,7 +1,22 @@
 *{
     margin:0;
     padding:0;
+    box-sizing: border-box;
 }
 body{
     background-color: #1629BF;
+}
+/* Nav bar */
+header{
+    background-color:#3C50EA;
+    text-align: center;
+    height:80px;
+    width:1000px;
+    margin: 0 auto;
+    border-radius: 40px;
+}
+nav h1{
+    color:#fff;
+    margin-top:40px;
+    padding: 25px;
 }
